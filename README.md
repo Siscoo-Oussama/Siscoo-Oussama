@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Ait Boulahna</h1>
 <h3 align="center">Dedicated Full-Stack Developer, Passionate About IT Fields</h3>
 
-- 🔭 I’m currently working on **My Futur**
-
-- 🧠 learning **Next.js**
-
 - ⚡ Ask me about **Laravel/React.js/Next.js**
 
 - 📫 How to reach me **oussama.aitboulahna@gmail.com**
